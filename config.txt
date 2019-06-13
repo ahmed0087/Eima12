@@ -1,0 +1,6 @@
+﻿token=NTg4Mjc5ODI0MTU0NjI0MDIx.XQHncw.brXWM3GMBIUHzfC2SaD4NyvxX_g
+owner=414879315184975882
+prefix=e
+game=ehelp
+stayinchannel=true
+songinstatus=false
